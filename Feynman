@@ -1,0 +1,7 @@
+	* Objects -  can hold sets of linked information / Objects are created from templates known as classes
+	* Properties - variable in an object 
+	* Methods - functions in an object 
+	* for in loop - will loop over each key in the object / Objects do not contain numerical indexes
+	* Dot notation - access an attribute of an object / access properties on an object  
+     vs
+      bracket notation -  access a property of an object but can be used by variable / must be a string.
